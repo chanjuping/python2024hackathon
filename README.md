@@ -39,3 +39,13 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 3. Loh Je Le
 
 URL: https://github.com/diamondex187/pythonhackathon2024
+
+## Team Nas
+
+Members:
+
+1.Nasrullah
+2.Izzat
+3.Aliah
+
+URL: https://github.com/07MNasrullah/python2024hackathon/
