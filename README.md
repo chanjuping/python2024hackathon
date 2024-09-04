@@ -70,7 +70,7 @@ Members:
 2. Izzat
 3. Aliah
 
-URL: https://github.com/07MNasrullah/python2024hackathon/
+URL: (https://github.com/07MNasrullah/Skyline_Shooter)
 
 ## Nexus
 
